@@ -134,7 +134,7 @@ img {
         max-width: 1140px;
     }
 
-    .site-header,
+    body,
     .lessons,
     .steps,
     .why-us {
@@ -149,7 +149,7 @@ img {
         overflow-x: hidden;
     }
 
-    .site-header,
+    body,
     .lessons,
     .steps,
     .why-us {
@@ -163,7 +163,7 @@ img {
         max-width: 480px;
     }
 
-    .site-header,
+    body,
     .lessons,
     .steps,
     .why-us {
